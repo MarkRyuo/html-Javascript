@@ -11,5 +11,8 @@ function btnSubmit() {
   const cNumber = document.getElementById("cNumber").value ;
   const eMail = document.getElementById("eMail").value ;
 
+  fName = String(fName) ;
+  mName = String(mName) ;
+  lName = String(lName) ;
   
 }
