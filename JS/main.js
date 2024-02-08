@@ -7,5 +7,6 @@ function btnSubmit() {
   const lName = document.getElementById("lName").value ;
   const dOfBirth = document.getElementById("dOfBirth").value ;
   const address = document.getElementById("address").value ;
-  const 
+  const cNumber = document.getElementById("cNumber").value ;
+  
 }
