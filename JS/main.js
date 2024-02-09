@@ -14,6 +14,8 @@ function btnSubmit() {
   fName = String(fName) ;
   mName = String(mName) ;
   lName = String(lName) ;
-  age = Number(age) ;
+
+  g
+
   
 }
