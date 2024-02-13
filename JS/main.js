@@ -15,7 +15,7 @@ function btnSubmit() {
   mName = String(mName) ;
   lName = String(lName) ;
 
-  g
+  
 
   
 }
