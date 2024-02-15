@@ -6,5 +6,5 @@ do {
 
   question = window.prompt("Are you Gay bro ?") ;
   question = Boolean(question) ;
-  window.alert("Your")
+  console.log("Your gay bro ")
 }while(question == True )
